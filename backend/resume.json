@@ -1,0 +1,131 @@
+{
+    "basics": {
+      "name": "MMM",
+      "phone": "+254 78712345",
+      "location": "Nairobi, Kenya",
+      "email": "my@email.com",
+      "linkedin": "https://www.linkedin.com/in/MyLinkedIn",
+      "github": "https://github.com/myGitHub"
+    },
+    "objective": {
+      "summary": "Devops, Security Engineer ."
+    },
+    "education": [
+      {
+        "institution": "University",
+        "area": "Applied Technology",
+        "studyType": "Bachelor",
+        "endDate": "2023",
+        "location": "Nairobi, Kenya",
+        "courses": [
+          "Data Structures and Algorithms",
+          "Object Oriented Design & Programming",
+          "Mobile Programming"
+        ]
+      }
+    ],
+    "strength": {
+      "technicalSkills": [
+        "Java",
+        "Flutter",
+        "Vulnerability Scanning Nmap",
+        "Risk Assessment",
+        "MySQL",
+        "API Gateway"
+      ],
+      "softSkills": [
+        "Time management",
+        "Adaptability",
+        "Teamwork",
+        "Leadership",
+        "Work ethic"
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "fluency": "Native"
+        },
+        {
+          "language": "German",
+          "fluency": "Advanced"
+        },
+        {
+          "language": "Somali",
+          "fluency": "Advanced"
+        },
+        {
+          "language": "Swahili",
+          "fluency": "Intermediate"
+        }
+      ]
+    },
+    "experience": [
+      {
+        "position": "Software Developer Intern",
+        "company": "FinTech",
+        "startDate": "2023-07",
+        "endDate": "2023-10",
+        "location": "Nairobi, Kenya",
+        "description": "Focused on securing and deploying API using tools like API gateways and WAF, configuring API network cluster, Keycloak, and accomplished configuring IAM into our API and API gateway, which made our API security safer."
+      },
+      {
+        "position": "IT Intern",
+        "company": "Radio Station",
+        "startDate": "2023-01",
+        "endDate": "2023-03",
+        "location": "Nairobi, Kenya",
+        "description": "Designed, deployed and troubleshot network infrastructure, including routers, switches and firewalls. Provided hardware and software support and troubleshooting for network-related issues, ensuring minimal downtime for end-users."
+      },
+      {
+        "position": "Volunteer",
+        "company": "Health Centre",
+        "startDate": "2022-05",
+        "endDate": "2022-08",
+        "location": "Nairobi, Kenya",
+        "description": "Record Keeping"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Fast API Devops Deployment via Docker",
+        "description": "Awesome stuff."
+      },
+      {
+        "name": "API Resume Cloud",
+        "description": "The 1200 is mine."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Certified Cloud Practitioner (CLF-C02)",
+        "date": "2024-04",
+        "issuer": "AWS"
+      },
+      {
+        "name": "CyberOps Associate",
+        "date": "2023-07",
+        "issuer": "Cisco"
+      }
+    ],
+    "references": [
+      {
+        "name": "Joe Doe Alpha",
+        "role": "Mentor",
+        "phone": "+123456789-1",
+        "email": "abc1@email.com"
+      },
+      {
+        "name": "Joe Doe Alpha 2",
+        "role": "Tech Lead, ImaliPay",
+        "phone": "+123456789-2",
+        "email": "abc2@email.com"
+      },
+      {
+        "name": "Joe Doe Alpha 3",
+        "role": "Human Resource",
+        "phone": "+123456789-3",
+        "email": "abc3@email.com"
+      }
+    ]
+  }
+  
